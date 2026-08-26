@@ -9,16 +9,6 @@ Desenvolvedor de Software com foco em **Back End Java**, apaixonado por resolver
 
 ---
 
-## 💼 Experiência
-
-**Venturus** — Software Engineer Intern *(atual)*
-Atuando na área de **Android Embarcado**, desenvolvendo e dando suporte a soluções embarcadas sobre a plataforma Android.
-
-**Solvercam** — Desenvolvedor Back End
-Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), plataforma da [Solvercam](https://solvercam.com), contribuindo com **Java** e **Python** no back end do produto. *(Projeto de código fechado — sem repositório público disponível.)*
-
----
-
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,15 +30,6 @@ Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), platafo
 | [**buscador-de-filmes**](https://github.com/assisgb/buscador-de-filmes) | Aplicação Java/Spring para busca de filmes, consumindo API externa com orientação a objetos. | Java, Spring |
 | [**respostas-llms**](https://github.com/assisgb/respostas-llms) | Script para geração e comparação de respostas de diferentes LLMs (Groq e Gemini). | Python |
 | [**Tocador-de-Musica-com-Arduino**](https://github.com/assisgb/Tocador-de-Musica-com-Arduino) | Projeto eletrônico de um tocador de música construído com Arduino. | C++ |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://gabriel-github-stats.vercel.app/api?username=assisgb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://gabriel-github-stats.vercel.app/api/top-langs/?username=assisgb&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165"/>
-</p>
 
 ---
 
