@@ -52,8 +52,8 @@ Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), platafo
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=assisgb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisgb&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=assisgb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=assisgb&layout=compact&hide_border=true" alt="Linguagens mais usadas" height="165"/>
 </p>
 
 ---
