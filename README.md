@@ -31,21 +31,12 @@ Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), platafo
 
 ## 🚀 Projetos em destaque
 
-### Públicos
-
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**PonderSec**](https://github.com/assisgb/PonderSec) | Projeto interno para avaliar respostas de diferentes LLMs a perguntas no contexto de cibersegurança. | HTML |
 | [**buscador-de-filmes**](https://github.com/assisgb/buscador-de-filmes) | Aplicação Java/Spring para busca de filmes, consumindo API externa com orientação a objetos. | Java, Spring |
 | [**respostas-llms**](https://github.com/assisgb/respostas-llms) | Script para geração e comparação de respostas de diferentes LLMs (Groq e Gemini). | Python |
 | [**Tocador-de-Musica-com-Arduino**](https://github.com/assisgb/Tocador-de-Musica-com-Arduino) | Projeto eletrônico de um tocador de música construído com Arduino. | C++ |
-
-### Acadêmicos e pessoais (repositórios privados)
-
-- **LibrasIA / LIBRAS-IA** — aplicação que reconhece sinais de LIBRAS em vídeo em tempo real, usando visão computacional e uma LLM para gerar legendas/áudio, facilitando a comunicação com pessoas surdas.
-- **site-pet** — projeto em TypeScript para gestão/apresentação relacionada a pets.
-- **TP02-AEDII / TP03-AEDII / TP03-AED** — trabalhos práticos de Algoritmos e Estruturas de Dados (C).
-- **trabalhopratico2-lp** — trabalho prático de Linguagens de Programação (Python).
 
 ---
 
