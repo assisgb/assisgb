@@ -11,6 +11,9 @@ Desenvolvedor de Software com foco em **Back End Java**, apaixonado por resolver
 
 ## 💼 Experiência
 
+**Venturus** — Software Engineer Intern *(atual)*
+Atuando na área de **Android Embarcado**, desenvolvendo e dando suporte a soluções embarcadas sobre a plataforma Android.
+
 **Solvercam** — Desenvolvedor Back End
 Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), plataforma da [Solvercam](https://solvercam.com), contribuindo com **Java** e **Python** no back end do produto. *(Projeto de código fechado — sem repositório público disponível.)*
 
