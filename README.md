@@ -26,7 +26,7 @@ Desenvolvedor de Software com foco em **Back End Java**, apaixonado por resolver
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**PonderSec**](https://github.com/assisgb/PonderSec) | Projeto interno para avaliar respostas de diferentes LLMs a perguntas no contexto de cibersegurança. | HTML |
+| [**PonderSec**](https://github.com/assisgb/PonderSec) | Projeto interno para avaliar respostas de diferentes LLMs a perguntas no contexto de cibersegurança. | Python, Django |
 | [**buscador-de-filmes**](https://github.com/assisgb/buscador-de-filmes) | Aplicação Java/Spring para busca de filmes, consumindo API externa com orientação a objetos. | Java, Spring |
 | [**respostas-llms**](https://github.com/assisgb/respostas-llms) | Script para geração e comparação de respostas de diferentes LLMs (Groq e Gemini). | Python |
 | [**Tocador-de-Musica-com-Arduino**](https://github.com/assisgb/Tocador-de-Musica-com-Arduino) | Projeto eletrônico de um tocador de música construído com Arduino. | C++ |
