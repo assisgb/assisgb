@@ -9,6 +9,13 @@ Desenvolvedor de Software com foco em **Back End Java**, apaixonado por resolver
 
 ---
 
+## 💼 Experiência
+
+**Solvercam** — Desenvolvedor Back End
+Atuei no desenvolvimento do **CAMAI** (hoje rebatizado como **Solver**), plataforma da [Solvercam](https://solvercam.com), contribuindo com **Java** e **Python** no back end do produto. *(Projeto de código fechado — sem repositório público disponível.)*
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
