@@ -26,6 +26,7 @@ Desenvolvedor de Software com foco em **Back End Java**, apaixonado por resolver
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**rio-negro-2024-prev**](https://github.com/assisgb/rio-negro-2024-prev) | Previsão diária da cota do Rio Negro em Manaus (jul–dez/2024) para o Hackathon Ocean, com PCA + regressão Ridge sobre índices climáticos e rios da bacia. | Python, scikit-learn, pandas |
 | [**PonderSec**](https://github.com/assisgb/PonderSec) | Projeto interno para avaliar respostas de diferentes LLMs a perguntas no contexto de cibersegurança. | Python, Django |
 | [**buscador-de-filmes**](https://github.com/assisgb/buscador-de-filmes) | Aplicação Java/Spring para busca de filmes, consumindo API externa com orientação a objetos. | Java, Spring |
 | [**respostas-llms**](https://github.com/assisgb/respostas-llms) | Script para geração e comparação de respostas de diferentes LLMs (Groq e Gemini). | Python |
